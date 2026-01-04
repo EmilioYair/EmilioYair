@@ -39,13 +39,3 @@ Si una idea llega a mi mente, lo más probable es que la construya usando tecnol
 </p>
 
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=EmilioYair&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilioYair&layout=compact&theme=vision-friendly-dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmilioYair&theme=vision-friendly-dark" alt="GitHub Streak" />
-</p>
